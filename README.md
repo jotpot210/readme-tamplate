@@ -92,8 +92,8 @@ http://www.isteaquemahmudmanik.com
 
 <!-- 14. image -->
 ![alt text](src)
-![profile](./images/sample.jpg)
-<img src="images/sample.jpg" width="200px" title="profile pic"/>
+![profile](./images/Sample.jpg)
+<img src="images/Sample.jpg" width="200px" title="profile pic"/>
 
 <br/>
 
