@@ -1,3 +1,7 @@
 Name: isteque
 Age: 26
 Education: BSc in Computer Science & Engineering
+
+Wife: Sabnam Mostari
+Age: 26
+Education: LLB Honours
