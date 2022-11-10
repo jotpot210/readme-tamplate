@@ -1,0 +1,3 @@
+Name: isteque
+Age: 26
+Education: BSc in Computer Science & Engineering
