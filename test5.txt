@@ -2,3 +2,4 @@ I am a graduate
 I have done SSC in 2011 and HSC in 2014
 Now I am practicing web development
 I am learning full stack web development
+Now I am learning git & github command
